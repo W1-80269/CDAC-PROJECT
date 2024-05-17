@@ -11,7 +11,9 @@ Attendance Tracking: Record and monitor student attendance efficiently.
 Performance Analysis: Analyze student performance through various metrics and reports.
 Notification System: Keep students, faculty, and administrators informed through push notifications.
 
-![Uploading image.png…]()
+![1st](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/f133e1e9-4659-4328-a2d0-3b601bfe0267)
+
+
 
 
 Installation
