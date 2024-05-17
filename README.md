@@ -15,6 +15,23 @@ Notification System: Keep students, faculty, and administrators informed through
 
 ![2](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/a2b33b44-2864-4d9d-a320-5990937cecde)
 
+![3](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/93a610a4-66de-47d0-9377-c03942b13117)
+
+![4](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/794195a5-3c16-4a9d-833e-8e2f3820a3ec)
+
+![5](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/032bd59f-e541-4c7b-b732-451df718cfa6)
+
+![6](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/789f409e-a253-43c3-ab25-2921c4c9e0d1)
+
+![7](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/95fdfca6-03df-4b59-9ef8-82500bd2ef98)
+
+
+
+
+
+
+
+
 
 
 
