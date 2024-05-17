@@ -1,4 +1,4 @@
-![image](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/1b852676-4e74-4d88-9efc-ddccd5c3f977)![image](https://github.com/W1-80269/CDAC-PROJECT/assets/100585928/2f183d82-92ba-480c-8a0b-15d84a9e2128)Sunbeam Infotech Institute EMIS Android App
+Sunbeam Infotech Institute EMIS Android App
 
 Introduction
 
@@ -10,6 +10,8 @@ Course Management: Easily manage course details, syllabus, schedules, and assess
 Attendance Tracking: Record and monitor student attendance efficiently.
 Performance Analysis: Analyze student performance through various metrics and reports.
 Notification System: Keep students, faculty, and administrators informed through push notifications.
+
+![Uploading image.png…]()
 
 
 Installation
